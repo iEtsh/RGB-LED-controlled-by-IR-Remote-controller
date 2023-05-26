@@ -1,1 +1,1 @@
-# RGB-LED-controlled-by-IR-Remote-controller
+# RGB LED controlled by IR Remote controller
